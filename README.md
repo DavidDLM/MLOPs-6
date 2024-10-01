@@ -1,4 +1,7 @@
-# Pipeline de Machine Learning con CI/CD 🚀 (Mario de León, Jorge Caballeros)
+# Pipeline de Machine Learning con CI/CD 🚀
+
+- Mario de León
+- Jorge Caballeros
 
 Este lab tiene como objetivo automatizar el entrenamiento y evaluación de un modelo de Machine Learning usando GitHub Actions como herramienta de CI/CD. Se evalúa y ejecuta el modelo con cada push.
 
