@@ -12,11 +12,8 @@ Este lab tiene como objetivo automatizar el entrenamiento y evaluación de un mo
 
 ## Reflexión CI/CD en proyectos de Machine Learning
 
-Las herramientas de CI/CD como GitHub Actions son muy útiles en proyectos de Machine Learning. Permiten automatizar cosas que normalmente se hacen a mano: 
-entrenar el modelo, probarlo, y asegurarse de que todo está funcionando bien cada vez que se cambia el código o los datos.
+Las herramientas de CI/CD como GitHub Actions son muy útiles en proyectos de Machine Learning. Permiten automatizar tareas que normalmente se hacen a mano, como entrenar el modelo, probarlo y asegurarse de que todo funciona bien cada vez que se cambia el código o los datos.
 
-Con GitHub Actions, se logra que el modelo se entrene automáticamente y que, si algo no va bien (por ejemplo, si la precisión del modelo baja de cierto punto), 
-podamos darnos cuenta antes de que llegue a producción. Esto ayuda a disminuir riesgos y optimizar el tiempo al momento de trabajar.
+Con GitHub Actions, el modelo se entrena automáticamente, y si algo no sale bien (por ejemplo, si la precisión baja de cierto punto), nos damos cuenta antes de que llegue a producción. Esto ayuda a reducir riesgos y optimiza el tiempo al momento de trabajar.
 
-Además, CI/CD nos facilita el trabajo colaborativo. Los miembros de un equipo pueden hacer cambios y el pipeline va a determinar automáticamente los resultados 
-de los cambios.
+Además, CI/CD facilita el trabajo colaborativo. Los miembros del equipo pueden hacer cambios y el pipeline determinará automáticamente los resultados de esos cambios, asegurando que todo siga funcionando correctamente.
